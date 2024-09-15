@@ -16,13 +16,7 @@ Skills: 🌱 Mi stack tecnológico incluye .NET, C#, ASP.NET MVC, SQL Server, HT
 
 
 
-https://github.com/Undefined2624/Undefined2624/assets/111666919/6b281a18-86af-4543-97fd-b4cca3c5c5cc
-
-
-
-
-https://github.com/Undefined2624/Undefined2624/assets/111666919/188e34f5-a3c6-429e-8008-0a662e859068
-
+Uploading Vídeo sin título ‐ Hecho con Clipchamp (2).mp4…
 
 
 
