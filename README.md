@@ -16,6 +16,23 @@ Skills: 🌱 Mi stack tecnológico incluye .NET, C#, ASP.NET MVC, SQL Server, HT
 
 https://github.com/user-attachments/assets/5400332f-0d34-417c-9233-acd064aea694
 
+https://github.com/user-attachments/assets/74928999-e8fe-4828-b46e-4e1384fd1a34
+
+https://github.com/user-attachments/assets/45a391a2-2eb6-431e-9cba-11c960b87963
+
+![image](https://github.com/user-attachments/assets/3da2eb3a-693b-413b-9104-5726c357d106)
+
+![image](https://github.com/user-attachments/assets/e92d2b42-d9ce-413f-a558-790226e0cdd6)
+
+![image](https://github.com/user-attachments/assets/6aef29e0-21af-40a8-a820-7ca20d8cf9a9)
+
+
+
+
+
+
+
+
 
 
 
