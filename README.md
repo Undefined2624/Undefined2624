@@ -13,7 +13,9 @@ Skills: 🌱 Mi stack tecnológico incluye .NET, C#, ASP.NET MVC, SQL Server, HT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Undefined2624)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/PriscillaCabaasVega/)  
 
-https://github.com/Undefined2624/image/blob/main/V%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp%20(3).mp4 
+
+https://github.com/user-attachments/assets/5400332f-0d34-417c-9233-acd064aea694
+
 
 
 
